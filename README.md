@@ -120,6 +120,7 @@ Plus 通常拥有更高使用额度、更稳定的访问体验，以及部分模
 ## 相关链接
 
 - AIPass ChatGPT Plus 开通服务：https://aipass.me/
+- GPT 充值操作指南：https://aipass.me/blog/gpt-chongzhi.html
 - ChatGPT Plus 国内付款教程：https://aipass.me/blog/chatgpt-plus-guonei-fukuan.html
 - GPT 充值骗局与风险说明：https://aipass.me/blog/
 
