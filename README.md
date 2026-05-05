@@ -124,7 +124,7 @@ Plus 通常拥有更高使用额度、更稳定的访问体验，以及部分模
 - ChatGPT 充值失败怎么办？payment failed 和扣款异常处理建议：https://aipass.me/blog/chatgpt-chongzhi-shibai.html
 - GPT 充值操作指南：https://aipass.me/blog/gpt-chongzhi.html
 - ChatGPT Plus 国内付款教程：https://aipass.me/blog/chatgpt-plus-guonei-fukuan.html
-- GPT 充值骗局与风险说明：https://aipass.me/blog/
+- GPT 充值骗局与风险说明：https://aipass.me/blog/gpt-chongzhi-pianju.html
 
 ## 免责声明
 
