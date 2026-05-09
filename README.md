@@ -119,6 +119,8 @@ Plus 通常拥有更高使用额度、更稳定的访问体验，以及部分模
 
 ## 相关链接
 
+- ChatGPT Plus 代充靠谱吗？下单前先看账号归属和风险边界：https://aipass.me/blog/chatgpt-plus-daichong-kaopu-ma.html
+
 - ChatGPT Plus 需要提供密码吗？哪些信息不能随便给：https://aipass.me/blog/chatgpt-plus-xuyao-tigong-mima-ma.html
 
 - AIPass（光年升级计划）ChatGPT Plus 开通服务：https://aipass.me/
