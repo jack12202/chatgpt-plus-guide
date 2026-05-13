@@ -133,3 +133,4 @@ Plus 通常拥有更高使用额度、更稳定的访问体验，以及部分模
 ## 免责声明
 
 本仓库内容仅用于整理 ChatGPT Plus 国内开通、充值、续费、支付失败等常见问题，不代表 OpenAI 或 ChatGPT 官方立场。ChatGPT、OpenAI 等名称归其各自权利方所有。
+- GPT代充网站下单前要看什么：价格、卡密和售后规则：https://aipass.me/blog/gpt-daichong-wangzhan.html
